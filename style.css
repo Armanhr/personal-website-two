@@ -1,0 +1,58 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+section {
+    height: 600px;
+    padding-bottom: 50px;
+}
+body {
+    margin: 0%;
+    font-family: Open Sans, sans-serif;
+}
+
+.header-area {
+    background-image: url(images/header-bg.png);
+}
+
+.half-width {
+    float: left;
+    width: 40%;
+    margin-left: 5%;
+}
+
+.half-width h1 {
+    font-size: 32px;
+}
+
+.half-width img {
+    height: 90%;
+    width: 90%;
+    padding-top: 10%;
+    padding-left: 10%;
+}
+.header-content {
+    padding-top: 30%;
+    padding-left: 12%;
+}
+.header-content h1 {
+    padding-bottom: 15px;
+}
+.header-content p {
+    padding-bottom: 40px;
+}
+span.orange-.hlighted {
+    color: orange;
+    font-size: 50px;
+}
+
+a.button {
+    text-transform: uppercase;
+    text-decoration: none;
+    padding: 10px 20px;
+    font-size: 25px;
+    border-radius: 5px;
+    background-image: linear-gradient(45deg, red, white);
+    color: white;
+
+}
