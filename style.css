@@ -56,3 +56,19 @@ a.button {
     color: white;
 
 }
+
+p#biography {
+    padding-left: 12%;
+    padding-top: 20px;
+    padding-bottom: 40px;
+}
+a#cv {
+    margin-left: 12%;
+}
+
+h1#bio {
+    padding-top: 42%;
+    color: orange;
+    text-transform: uppercase;
+}
+
