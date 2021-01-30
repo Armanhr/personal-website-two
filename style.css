@@ -106,3 +106,33 @@ section.lates-work h1 {
     text-transform: capitalize;
     font-size: 32px;
 }
+
+
+section.footer-area {
+    text-align: center;
+    background: url(images/footer-bg.png);
+    padding-top: 10%;
+}
+
+section.footer-area h1 {
+    padding-bottom: 2%;
+}
+section.footer-area h3 {
+    padding-bottom: 12px;
+}
+section.footer-area h5 {
+    color: red;
+    padding-bottom: 2%;
+}
+section.footer-area p {
+    font-size: 25px;
+    padding-bottom: 20px;
+}
+a {
+    padding: 50px 60px 50px 60px;
+    background: red;
+    /* margin-top: 5%; */
+    color: white;
+    text-decoration: none;
+}
+
