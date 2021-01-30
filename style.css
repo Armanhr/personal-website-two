@@ -80,3 +80,29 @@ section.biography-area {
     height: 600px;
     padding-bottom: 30%;
 }
+
+section.lates-work {
+    text-align: center;
+    background: url(images/latest-work-bg.png);
+    padding-bottom: 10%;
+    padding-top: 3%;
+}
+section.lates-area h1 {
+    text-transform: capitalize;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+element.style {
+}
+section.lates-work img {
+    width: 25%;
+    height: auto;
+    margin-left: 2%;
+}
+section.lates-work h1 {
+    padding-top: 2%;
+    padding-bottom: 4%;
+    text-transform: capitalize;
+    font-size: 32px;
+}
