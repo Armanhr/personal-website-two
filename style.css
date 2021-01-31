@@ -111,7 +111,7 @@ section.lates-work h1 {
 section.footer-area {
     text-align: center;
     background: url(images/footer-bg.png);
-    padding-top: 10%;
+    padding-top: 4%;
 }
 
 section.footer-area h1 {
@@ -135,4 +135,15 @@ a {
     color: white;
     text-decoration: none;
 }
+.button-area h3, h2 {
+    color: white;
+    padding: 25px 60px 25px 60px;
+}
+.button-area {
+    background: red;
+    display: inline-block;
+}
 
+section.footer-area p {
+    padding-bottom: 64px;
+}
